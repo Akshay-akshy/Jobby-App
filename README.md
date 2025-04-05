@@ -11,7 +11,7 @@ A single-page web application (SPA) for job seekers, featuring:
 
 🚀 Live Demo
 👉 Jobby App - https://jobbyapp.ccbp.tech/login <br/>
-username: "rahul"
+username: "rahul"<br/>
 password: "rahul@2021"
 
 (Make sure this link is correct and working)
