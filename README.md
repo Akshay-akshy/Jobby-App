@@ -10,7 +10,10 @@ A single-page web application (SPA) for job seekers, featuring:
 💼 Salary and Employment Type Filters
 
 🚀 Live Demo
-👉 Jobby App - Live
+👉 Jobby App - https://jobbyapp.ccbp.tech/login
+username: "rahul"
+password: "rahul@2021"
+
 (Make sure this link is correct and working)
 
 🛠️ Tech Stack
@@ -22,34 +25,9 @@ Authentication: JWT Tokens
 
 Styling: CSS
 
-📸 Screenshots
-(Optional: Add a few images or GIFs of the app UI)
 
-📦 Setup Instructions
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Akshay-akshy/Jobby-App.git
-Navigate into the project:
 
-bash
-Copy
-Edit
-cd Jobby-App
-Install dependencies:
-
-nginx
-Copy
-Edit
-npm install
-Run the app:
-
-sql
-Copy
-Edit
-npm start
 
 
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
