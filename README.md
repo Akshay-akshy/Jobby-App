@@ -10,7 +10,7 @@ A single-page web application (SPA) for job seekers, featuring:
 💼 Salary and Employment Type Filters
 
 🚀 Live Demo
-👉 Jobby App - https://jobbyapp.ccbp.tech/login
+👉 Jobby App - https://jobbyapp.ccbp.tech/login <br/>
 username: "rahul"
 password: "rahul@2021"
 
